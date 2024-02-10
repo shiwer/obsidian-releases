@@ -9903,5 +9903,12 @@
     "author": "mnaoumov",
     "description": "Enables context menu for vault root folder",
     "repo": "mnaoumov/obsidian-root-folder-context-menu"
+  },
+  {
+    "id": "ear-training",
+    "name": "Ear Training",
+    "author": "Poe Zoel",
+    "description": "Offers ear training for musician inside your obsidian vault.",
+    "repo": "shiwer/ear-training-obsidian-plugin"
   }
 ]
